@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anti-Fimbria, or, An answer to the animadversions upon the last speeches of the [f]ive Jesuits executed at Tyburne June 20. 30. 1679. / By A.C.E.G.</title>
+            <author>Warner, John, 1628-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97182</idno>
+            <idno type="STC">Wing W904A</idno>
+            <idno type="STC">ESTC R186273</idno>
+            <idno type="EEBO-CITATION">43078201</idno>
+            <idno type="OCLC">ocm 43078201</idno>
+            <idno type="VID">151868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151868)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2279:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anti-Fimbria, or, An answer to the animadversions upon the last speeches of the [f]ive Jesuits executed at Tyburne June 20. 30. 1679. / By A.C.E.G.</title>
+                  <author>Warner, John, 1628-1692.</author>
+               </titleStmt>
+               <extent>[2], 3-28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Antwerp :</pubPlace>
+                  <date>M.DC.LXXIX [1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>"Permissu superiorum."</note>
+                  <note>Imperfect: tightly bound, with loss of print on cover and in text.</note>
+                  <note>Reproduction of original in: Exeter College Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Apologetic works.</term>
+               <term>Jesuits --  England --  Early works to 1800.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151868:1" rendition="simple:additions"/>
+            <p>ANTI-FIMBRIA OR AN ANSWER To the ANIMADVERSIONS Uppon the Laſt SPEECHES OF THE <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IUE JESUITS Executed at TYBURNE IUNE 20./30. 1679.</p>
+            <q>
+               <hi>Ut Seductores, &amp; Veraces.</hi>
+            </q>
+            <q>As Seducers; yet we are ſincere.</q>
+            <bibl>1. Cor. 6.8.</bibl>
+            <p>By A. C. E. G.</p>
+            <p>
+               <hi>Permiſſu Superiorum.</hi> M.DC.LXXIX.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:151868:2"/>
+            <pb n="3" facs="tcp:151868:2"/>
+            <head>PREFACE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Imbria,</hi> an impudent Ruffian, hauing attempted the death of a good, peaceable, and honeſt citizen of Rome, and wounded him greiuously, though not mortally (the poore man by turning a ſide his body auoided that) indighted him afterwards publickly, for not ſtanding fayre to receaue his dart, and not permitting himſelfe to be killed out right: <hi>Quod non totum corpore telum excepiſſet,</hi> ſays <hi>Cicero.</hi> It was his death, that <hi>Fimbria</hi> deſigned: and he thought himſelf <hi>wronged,</hi> be<g ref="char:EOLhyphen"/>cauſe his <hi>attempt</hi> proued <hi>ineffectuall.</hi>
+            </p>
+            <p>A few factious Miniſters haue deſigned the <hi>naturall,</hi> and <hi>civill death</hi> of the <hi>Papiſts,</hi> to kill their <hi>Perſons</hi> and their <hi>Reputation:</hi> which ap<g ref="char:EOLhyphen"/>peares by their <hi>Actings.</hi> They haue beene ſucceſſeful uppon uery many, as to the firſt part, their naturall death, which might ſa<g ref="char:EOLhyphen"/>tisfy their hatred; but that is only half their deſigne, their repu<g ref="char:EOLhyphen"/>tation remaining intire, and in deed uery conſiderably encreaſed by their <hi>Chriſtian Patience</hi> in ſuffring, and their conſtant aſſerting of their <hi>Innocency,</hi> to their laſt breath, accompanyed with ſo many circumſtances euidently confirming their aſſertions, that the grea<g ref="char:EOLhyphen"/>teſt and wiſeſt part of the world, doe them juſtice: wherefore theſe Miniſters arraigne the reputation of the ſuffring <hi>Papiſts</hi> by dayly ſhells.</p>
+            <p>The greateſt, and moſt conſiderable of them which hath come to my knowledge, is that <hi>printed by Authority</hi> which I here un<g ref="char:EOLhyphen"/>dertake to anſwer: without doubt, the Authour of theſe <hi>Animad<g ref="char:EOLhyphen"/>verſions,</hi> is the ſame, who <hi>advanced an antidote againſt the ſpreading
+<pb n="4" facs="tcp:151868:3"/>uenome of clandeſtine tranſcripts:</hi> for the reaſons there only hinted at, are here enlarged: and in this Pamphlet there is little new, beſi<g ref="char:EOLhyphen"/>des <hi>citations,</hi> and <hi>words.</hi> Soe the french anſwer to that Antidote, if turned into inglish, might ſerue for theſe <hi>Animadverſions.</hi> Yet j haue beene aduiſed to ſpend ſome few ſpare houres, uppon the<g ref="char:EOLhyphen"/>ſe, at leaſt, for the Authors ſake, who is ſaid to be in the hi<g ref="char:EOLhyphen"/>gheſt Eccleſiaſtical dignity, the L. B. of L. Jndeed that Chara<g ref="char:EOLhyphen"/>cter should ether ſuppoſe, or giue a ſpirit of meekneſſe and Peace, at leaſt free the Perſon, who is honoured with it, from ſuch an implacable endleſſe malice, which is not ſatiated with the blood of thoſe he counts his enemyes; but paſſes the Graue: yet his paſt life, ſpent for the greateſt, and beſt part in factious times (in which to ſpeake no worſe he went with the ſeditious throng) and ſome late Pamphlets, which beare his name, and are of the ſame ſtraine, make the conjecture very probable. Yet j call him whoeuer he be, <hi>Fimbria,</hi> becauſe of ſome greate reſemblance in their <hi>Procee<g ref="char:EOLhyphen"/>dings,</hi> equally unjuſt, and groundleſſe in their Beginning, violent, and cruell in theire progreſſe, and implacable, and impudent in theire End.</p>
+            <p>Yet j ſay this <hi>Copy</hi> of theſe Miniſters out does that <hi>Originall:</hi> for had that <hi>Innocent Roman</hi> preſented himſelf to <hi>Fimbria,</hi> and quietly permitted himſelf to be butchered, this Ruffian's malice would haue beene ſatisfyed. Of theſe <hi>Innocent Romaniſts</hi> many voluntarily put themſelues in to their enemyes hands, all offred readily their neckes to the Halters, and their Bodyes to the executio<g ref="char:EOLhyphen"/>ners kniues, they are Hanged and Quartred; yet theſe meeke and Mercifull Miniſters are not ſatisfyed! <hi>The ſtiffe neckt jews killed the Prophets and ſtoned thoſe who were ſent unto them.</hi> (Mat. 23.37.) But when that was done, <hi>they built their ſepulchers, adorned their Monu<g ref="char:EOLhyphen"/>ments,</hi> (Mat. 23.29.) Canonized their writings, and honoured their memory. And it is unheard of that they <hi>Arraigned their In<g ref="char:EOLhyphen"/>nocency</hi> after their <hi>Death.</hi> That degree of malice is not to be found, as far as j remember, amongſt the Ancients: it was reſerued for this worſt of times, in which ordinary wickedneſſe will not ſa<g ref="char:EOLhyphen"/>tisfy thoſe, who reſolue (and glory in that Reſolution) to out
+<pb n="5" facs="tcp:151868:3"/>doe what ſoeuer, hath beene done, by any before them. That monſter, <hi>Bradshaw,</hi> ſayd: <hi>Jf paſt ages afford no Precedent to follow, we will giue Precedents, for others to follow hereafter.</hi> This ſentiment, how barbarous, and infamous ſoeuer, ſeemes to haue paſt into the Breaſt, and poſſeſſe the ſoul of thoſe, of whome j ſpeake.</p>
+            <p>Did they regard ether <hi>God,</hi> or <hi>Men,</hi> and conſult ether <hi>Juſtice,</hi> or <hi>Honour,</hi> they would proceed otherwiſe. They think it odious te <hi>execute Men</hi> only for their <hi>Religion,</hi> or becauſe they are Preiſts: but is that <hi>Odium</hi> diminisht, by adding to it as odious <hi>Calumnyes,</hi> by framing rediculous <hi>Plots,</hi> by ſeeking out men of deſperate for<g ref="char:EOLhyphen"/>tunes, and wicked flagitious liues to confirme thoſe fables by <hi>fal<g ref="char:EOLhyphen"/>ſe Oaths,</hi> by rewarding thoſe <hi>Knyghts of the Poſt,</hi> for their <hi>Perjuryes,</hi> and by thinking the world ſoe ſimple, as to be impoſed uppon by ſoe ill-contriued-a-tricke? What is this, but to double, nay treble the jniuſtice, to wash a ſpot out of white linnen, with juk, and to iuſtify one fault, by others as greate? Doe not theſe men put an affront uppon mankind, acting as if they thought it had loſt the uſe of its reaſon, at the ſame time, as they, by their malice, ſeeme depriued of the uſe of theirs?</p>
+            <p>J know ſcarce any out of England ſoe weake, as to beleiue, there is, or was any ſuch thing, as a <hi>Plot of Papiſts:</hi> not only <hi>Pa<g ref="char:EOLhyphen"/>piſts;</hi> but <hi>Proteſtants</hi> them ſelues openly acknowledge, they think it all fabulous. A uery wiſe man and a great freind to the jnglish, told me ingeniously: <hi>he had loſt much of the opinion he had of our na<g ref="char:EOLhyphen"/>tion, ſeing it capable of being deceiued by ſuch fables.</hi> A commendatory Abbot, a great Preacher, preaching in Paris before her moſt Chri<g ref="char:EOLhyphen"/>ſtian Maieſty of the labours, and ſuffrings of <hi>Jeſuits</hi> for the Pro<g ref="char:EOLhyphen"/>pagation of <hi>the Faith,</hi> ſaid: <hi>Witneſſe the Blood of thoſe Martyrs, ſtill reaking in our neyghbouring kingdome.</hi> Cardinal de Retz ſayd: <hi>Had j now that Authority, which j had heretofore in Paris</hi> (he had beene Arch Bishop of it) <hi>j would build a chappel in its Cathedral Church, to the honour of theſe fiue Martyrs.</hi> J know of many others, ſome great Princes, who haue declared publickly the like opinion: which shal be produced as occaſion shal require. For the preſent this may ſuf<g ref="char:EOLhyphen"/>fice to shew, that althô theſe men of whome j ſpeake haue had
+<pb n="6" facs="tcp:151868:4"/>power enough to worke uppon their ſimple auditory in <hi>England,</hi> yet out of it, they muſt ſeeke out ſome unknowne Land, if they intend to find credit for ſuch <hi>old wiues-ſtoryes,</hi> as theſe are, which they charge uppon <hi>Papiſts.</hi>
+            </p>
+            <p>And j haue a better opinion of our nation, then that any con<g ref="char:EOLhyphen"/>ſiderable part of it should really beleive ſuch incredible incohe<g ref="char:EOLhyphen"/>rent <hi>Fables:</hi> howeuer ſome Polititians promote uery hotly the per<g ref="char:EOLhyphen"/>ſecution rayſed on that account, and many others are content to be idle ſpectators of a Tragedy, in which they think none ſuffer, but ſuch, as they would willingly ſee ruined. Each ſort of theſe haue their ſeuerall Ends: yet howeuer they labour to attaine them, they neuer will be able to compaſſe more, then God will permit, to whome they wil at laſt be accountable for all their actions: and to him alone, the <hi>Papiſts</hi> haue recourſe.</p>
+            <p>Two things are materiall, in all this Proceedure, for the ho<g ref="char:EOLhyphen"/>nour of our Country. One is that j doe not find any of the Pre<g ref="char:EOLhyphen"/>laticall Miniſters of any greate repute for Learning, or Honour, engaged in the carrying on of theſe Bloudy Contriuances. For j am perſuaded they will ſcarce diſgrace their Degree, by owning <hi>Oates</hi> to be of it: and as for D. <hi>Tongue,</hi> and the B. of L. if we conſider their paſt liues, we shall haue reaſon to think them in the miniſtry, but as <hi>ſaul was amongſt the Prophets.</hi>
+            </p>
+            <p>The other: that if it be a dishonour to our nation, that ſuch notorious <hi>Periured</hi> men, as <hi>Oates, Bedlow, Prance,</hi> and <hi>Dugdale,</hi> were bred and borne in it, it is for its credit and honour, that not withſtanding all tentations of the greateſt feares, and grea<g ref="char:EOLhyphen"/>teſt hopes, only four should be found in it, who yeilded to ſuch tentations. To ſay nothing of <hi>Preiſts,</hi> or of <hi>Noble men</hi> and Gentle<g ref="char:EOLhyphen"/>men, who may be thought to haue a greater proportion of Lear<g ref="char:EOLhyphen"/>ning, of Conſcience, and of Honour, we haue ſeen a poore Co<g ref="char:EOLhyphen"/>median <hi>(Medburne)</hi> refuſe a reward conſiderable for one of his condition, 500. L. and chooſe rather to rot a liue in priſon, as he effectually did, then acknowledge a crime, of which he was jn<g ref="char:EOLhyphen"/>nocent, and by that, concurre to the death, or ruine of many jnnocent Perſons. His example and that of ſome others, who in
+<pb n="7" facs="tcp:151868:4"/>alike manner <hi>choſe rather to be afflicted weth the people of God, then the temporall enjoyments of ſinfull perjury</hi> (Heb. 11.25.) Theſe examples, j ſay, j uſe to alleadge, to reſtore in the opinion of wiſe men, the Honour of our nation, which the Periury of <hi>Oates,</hi> and his Aſſociate, the <hi>Partiality</hi> of the Jewry, and Aſſiſtants, and the <hi>But<g ref="char:EOLhyphen"/>cherly cruelty</hi> of ſome of the judges hath brought uery low. Jndeed j think it a great unjuſtice, to charge a whole nation with the shamefull faults of ſome few, howeuer inueſted with ſome publick office, when ſo many others conſtantly oppoſe them.</p>
+            <p>But j intend not an Apology for the nation; but a vindication of the perſecuted part of it, from thoſe crimes, which are uniuſtly charged on them euen after their <hi>Death.</hi> Let us heare what is al<g ref="char:EOLhyphen"/>leadged againſt them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>ANTI-FIMBRIA &amp;c.</head>
+            <p>
+               <hi>FImbria</hi> page 1. <q>Proteſtants, who make a conſcience of their words, and count it a horrid crime, to ſpeake otherwiſe, then they think, when they are dying, may be ready to jud<g ref="char:EOLhyphen"/>ge thoſe guiltleſſe,</q> who when they are dying, aſſert their juno<g ref="char:EOLhyphen"/>cency with higheſt Aſſeuerations.</p>
+            <p>
+               <hi>Anſwer.</hi> Jf we may gueſſe at the Diſpoſition of thoſe dying Pro<g ref="char:EOLhyphen"/>teſtants, you meane, by the whole tenor of their liues, we may conclude, <hi>they think it</hi> no <hi>crime</hi> at all, <hi>to ſpeake other wiſe then they think,</hi> ſeing in their liues they ſcruple at it ſo little. We can not judge certainly of the interiour ſentiments of a man in particular by his actions, ſeing theſe are often contrary to his conſcience, Paſſion preuailing ouer Reaſon, and hurrying him to what he knows to be unlawfull. <hi>Video meliora, proboque: deteriora ſequor.</hi> But it is almoſt impoſſible that a whole People, a nation, should be inclined to commit one, and the ſame ſin, unleſſe the Rules of conſcience, which would check them, be firſt defaced in their mind: becauſe it is morally impoſſible, that a whole nation should as one time be depriued of the free uſe of reaſon, by one Paſſion.</p>
+            <p>Hence it appeares, that the Perſons you commend for <hi>ſincerity</hi>
+               <pb n="8" facs="tcp:151868:5"/>in <hi>their words,</hi> haue really <hi>no ſcruple of any Lying.</hi> For ſeing they re<g ref="char:EOLhyphen"/>ward <hi>Periured Perſons;</hi> and with the greateſt threates, and pro<g ref="char:EOLhyphen"/>miſes endeauour to work uppon the frailty of ſuch as are ſo un<g ref="char:EOLunhyphen"/>fortunate, as to fall in to their hands, to bring them to encreaſe the number of falſe witneſſes, and punish as guilty, of the moſt hainous crimes ſuch as prefer the Peace of their conſcience, and their ſincerity before their liues, can we gueſſe they ſcruple at lying, or Perjury? No, no: it is in uaine to pretend to it, for your publicke actions convince the falshood of your pretence: and whe<g ref="char:EOLhyphen"/>re theſe are knowne (as they are to the greateſt part of Europe) none will euer beleiue <hi>you count it any crime at all, to ſpeake other wiſe, then you think.</hi> It is tru your endeauours haue beene for the moſt part fruſtrated, hauing not met with many, who haue had a con<g ref="char:EOLhyphen"/>ſcience hard enough, to beare Perjury: and thoſe too you firſt made <hi>Proteſtants,</hi> before you could make them <hi>Falſe witneſſes:</hi> but the ſmalneſſe of their number, doth not excuſe you, who uſe ſuch unworthy meanes, for ſo dishonourable an End. At leaſt out of your Proceedings it is euident you little eſteeme <hi>ſincerity,</hi> which you punish; nor ſcruple at <hi>Lying</hi> which you promote.</p>
+            <p>Read the frequent Libels againſt <hi>Papiſts,</hi> which dayly appeare of late, full of Lyes, compoſed, as j am informed, by ſome Mi<g ref="char:EOLhyphen"/>niſters of the <hi>Proteſtant Church,</hi> ſome by your ſelf, and without the helpe of a <hi>Reuelation,</hi> you shal perceiue a <hi>Lying ſpirit in the mouth of your Prophets</hi> as there was in the mouth of the Prophets of <hi>Ahab.</hi> 1. kings 22.23. We may with great probability gueſſe, you ſay as the jews did, Jſay. 28.15. <hi>We haue put our hopes in a Lye: a Lye shal pro<g ref="char:EOLhyphen"/>tect us.</hi> A Proteſtant beyond ſeas conſidering this, with ſome con<g ref="char:EOLhyphen"/>fuſion ſayd: <hi>Our Reformation begane with Lying, continues with Lying, and will end with Lying.</hi> And can we think <hi>you make a conſcience of ſpeaking other wiſe then you think?</hi>
+            </p>
+            <p>You know, ſir, who in ſcripture is termed the Father of Lyes, (Joan. 8.44.) But at the ſame time that you deliuered up your <hi>will</hi> to the <hi>Workings of Errour,</hi> God, the <hi>God of Truth,</hi> ſtruck your <hi>Underſtanding</hi> with ſuch a blindneſſe, that you could not tell any <hi>Probable,</hi> or <hi>Credible Lyes:</hi> as Gods Prouidence shews its ſelf, in
+<pb n="9" facs="tcp:151868:5"/>ioyning <hi>Antidotes</hi> to the Poyſon of <hi>Scorpions.</hi> Soe that the meanes you uſe to blaſt our Reputation, and to ground the opinion of a <hi>Plot,</hi> doe deſtroy themſelues, whileſt the things, you ſay, are not only untru; but alſo <hi>incredible.</hi> For what man in his Wits can beleiue that a ſuperior of a particular Congregation of Religious men should by his letters Patents diſpoſe of all offices ciuill, Mi<g ref="char:EOLhyphen"/>litary, and Eccleſiaſticall, of a whole Kingdome, euen thoſe of the Crowne, and Bishopricks? That <hi>Oats</hi> a new man ether un knowne, or too well knowne to be truſted with any thing, as being thought unfit to liue as a priuate ſcholler in any of their Colledges, should be entruſted with the diſtributing theſe <hi>Patents?</hi> That ſuch a body as the Catholick Nobility, and Gentry, should acknowlegde that unheard of Authority of that Superior, and accept of his <hi>Commiſſions?</hi> That not one of theſe <hi>Commiſſions</hi> should be found, or owned, by any who receaued them? That a Cu<g ref="char:EOLhyphen"/>ſtomary Trienniall Aſſembly of Religious men, to conſider of the Superiors of their Prouince, which is conſtantly held by <hi>Jeſuits,</hi> and other Regulars, should be eſteemed a conſpiracy againſt the king and ſtate? That <hi>Oates,</hi> who neuer had beene one day, nay one hour, a <hi>Jeſuit,</hi> should be admitted in to that Aſſembly, when ſome, who had beene 25. yeares, ſome aboue 50. yeares <hi>Jeſuits,</hi> could not enter into it? That a war should be deſigned, and yet nether men, nor Mony, nor Armes, nor Prouiſion, nor Ammo<g ref="char:EOLhyphen"/>nition, appeare? That after ſo diligent informations, and ſear<g ref="char:EOLhyphen"/>chings into Papers, and houſes, no footſtep of ſoe greate a buſi<g ref="char:EOLhyphen"/>neſſe, in fourteene months time, should be diſcouered, but that all this machine should ſtill rely uppon <hi>Oates</hi> his word? That when ſo many thouſands were engaged, non, but this one infamous Per<g ref="char:EOLhyphen"/>ſon should acknowledge ſoe horrible a Plot? That this ſame Per<g ref="char:EOLhyphen"/>ſon should ſeverall times contradict himſelf in his <hi>Depoſitions,</hi> and yet his preſent <hi>Oath</hi> alwayes be true, and men be condemned up<g ref="char:EOLhyphen"/>pon it? That almoſt all the guilty perſons, at leaſt the cheife, and moſt notorious of them, should voluntarily preſent themſel<g ref="char:EOLhyphen"/>ues to the officers of juſtice? That not one of them all, though inuited with aſſurance of Impunity, and Pardon, and great Re<g ref="char:EOLhyphen"/>wards
+<pb n="10" facs="tcp:151868:6"/>should acknowledge the leaſt Guilt, euen at their laſt breath; but that all should dye, proteſting their Jnnocency, not one excepted? That hauing ruined their Body by ſoe deteſtable a <hi>Plot,</hi> they should all unanimouſly reſolue to damne their <hi>souls</hi> with a <hi>Perjury,</hi> at that moment when they were to be preſented to the dreadfull Tribunall of the upright, and all-ſeing <hi>Judge?</hi> Theſe things cannot be paralleled in any Hyſtory, and are ſo euidently untru, that they ground ſuch a certainty of the <hi>Papiſts Jnnocency,</hi> that a greater in morall matters can not be found. And ſome of theſe conſiderations hauing beene repreſented to the Publick in French, an Eminent Perſon of the <hi>Reformed Religion</hi> Petitioned his Prince, that they myght not be printed in his cheife Citty, ſaying <hi>thoſe euident unjuſtices acted in England, would, if knowne, endan<g ref="char:EOLhyphen"/>ger the liues of all the Proteſtants in his Dominions.</hi>
+            </p>
+            <p>
+               <hi>Fimbria,</hi> ibidem. <q>Notwithſtanding men will haue reaſon to judge them truly Traytors, if they take notice, how full and cleere the Euidence is, by which they were caſt: and under<g ref="char:EOLhyphen"/>ſtand the Principles of the Perſons executed, who are by com<g ref="char:EOLhyphen"/>mon doctrine, taught amongſt them, furnisht with expedients, to deny what is true, and affirme what is false, and that with ſolemne Oaths,— and yet nether lye, nor be forſworne, nor ſin in the leaſt degree. Their cheyſe Artifice is that of <hi>mentall equiuo<g ref="char:EOLhyphen"/>cation.</hi>
+               </q> The uſe of which is allowed by all ſorts of <hi>Papiſts.</hi> And you repeate this ſecond part pag. 8. 10. 11. 14. and caet. In<g ref="char:EOLhyphen"/>deed your whole diſcourſe relyes on it.</p>
+            <p>
+               <hi>Anſwer.</hi> Here are two Reaſons alleadged againſt all thoſe cleere proofes, of the <hi>Jnnocency</hi> of ſuffring <hi>Catholicks.</hi>
+            </p>
+            <list>
+               <item>1. The cleerneſſe of the euidence againſt them.</item>
+               <item>2. That they hold <hi>mentall equiuocation</hi> Lawfull.</item>
+            </list>
+            <p>You only hint at the firſt, and ſoe j shal be short. J neuer ſaw any underſtanding man ſatisfyed with the ſeuerall <hi>Tryalls,</hi> euen as you haue printed them. That of M.<hi rend="sup">r</hi> 
+               <hi>Colman</hi> is publisht in other Languages: and ſeuerall able men, hauing examined it, with as much attention, and exactneſſe (as they aſſured me) as if they had beene to pronounce ſentence in the caſe, ſayd: that the eui<g ref="char:EOLhyphen"/>dence
+<pb n="11" facs="tcp:151868:6"/>againſt him conſiſted of two parts. 1. What the Witneſſes depoſed. 2. His letters. <hi>That the Witneſſes Depoſitions were inſignificant, a being euidently false. That his Correſpondence with foreigne Ministers, was ſuſpitious, unleſſe with his king's Priuity. Yet in the letters themſelues there was nothing againſt the king's life, or ſtate, or Gouernment. Soe they doubted not of his Jnnocency, as to the crimes contained in his jndictment, for which he was condemned.</hi> Now if this be the ſentiment of the wi<g ref="char:EOLhyphen"/>ſer part of the world, in <hi>Colman's</hi> caſe, which is undoubtedly the hardeſt of all, what think you is their opinion of the reſt? It is in the Eye of <hi>Europe</hi> ſoe cleere, that nether all the Perjurys of <hi>Oates,</hi> nor all your ſophiſtry wil euer perſwade the contrary.</p>
+            <p>Now to that <hi>Artifice,</hi> which you impertinently, and ignorantly call <hi>mentall equiuocation,</hi> a word unknowne to Diuines and where of one part contradicts the other. You myght as well ſpeake of a <hi>vocall thought.</hi> But let that paſſe. You ſay <hi>equiuocation is allowed by all ſorts of Papiſts.</hi> J ſay this is false: for the <hi>Pope,</hi> and <hi>Cardinalls,</hi> and the <hi>Congregation of the Inquiſition</hi> are certainly one <hi>ſort of Papiſts:</hi> and they allow it not; but condemne it by a ſolemne Decree, publisht on the 20. Febr. 1678. or 2. March. 1679. Where they cenſure 65. Propoſitions. Of which the 26. is as followeth: <hi>Si quis vel ſolus, vel coram alijs, ſive interrogatus, ſive propria ſponte, ſive recreationis causâ, ſive quocunque alio fine, juret ſe non feciſſe aliquid, quod reverà fecit, intelligendo intrà ſe aliquid aliud, quod non fecit, vel aliam viam ab eâ, in quâ fecit, vel quodvis aliud additum verum, reverà non mentitur, nec eſt Perjurus.</hi>
+            </p>
+            <p>And the 27. <hi>Cauſa juſta utendi amphibologijs, eſt quoties id neceſſarium, eut utile eſt ad ſalutem corporis, honorem, res familiares tuendas, vel ad quemlibet alium virtutis actum: ità ut veritatis occultatio cenſeatur tunc expediens, &amp; ſtudioſa.</hi> In Inglish thus.</p>
+            <p n="26">26. <hi>Jf any man ether alone, or in preſence of others, ether uppon exami<g ref="char:EOLhyphen"/>nation, or of his owne accord, or for Diuertiſment, or for any other in<g ref="char:EOLhyphen"/>tent, ſweares he did not doe, what he really did, imagining he did not an other thing, or that he did not that ſame thing ſuch away, or any other in<g ref="char:EOLhyphen"/>teriour Truth, that man doth nether Lye, nor is Perjured.</hi>
+            </p>
+            <p n="27">27. <hi>A juſt cauſe of uſing Equiuocation, is when it is neceſſary, or uſe<g ref="char:EOLhyphen"/>full
+<pb n="12" facs="tcp:151868:7"/>to preſerue our Health, or Honour, or Goods, or for any other act of vertu, ſoe that when theſe occurre, it may be thought expedient and lauda<g ref="char:EOLhyphen"/>ble to conceale the Truth.</hi> Thus the two Propoſitions.</p>
+            <p>Doe they not containe that uery Doctrine which you (uery Learnedly!) call <hi>mentall equiuocation?</hi> and which you aſſure all ſorts of Papiſts allow? Jf it be not? Tell us what is. If it be? Heare the following Cenſure of the Congregation, or rather of the <hi>Pope with the Congregation: quicunque, cujuſcunque conditionis, ſtatus, vel digni<g ref="char:EOLhyphen"/>tatis illas, vel illarum aliquam defenderit, — vel de ijs tractaverit, niſi fortè eas impugnando, ipſo facto incidat in excommunicationem latae ſen<g ref="char:EOLhyphen"/>tentiae, à quâ non poſſit, — niſi à Romano Pontifice abſolvi. Who<g ref="char:EOLhyphen"/>ſoever, of what quality ſoeuer he be, shal hold both, or ether of theſe Pro<g ref="char:EOLhyphen"/>poſitions, or mention</hi> (ſpeak of) <hi>them, unleſſe it be to impugne it or them, is</hi> ipſo facto <hi>excommunicated: from which excommunication none but the Pope himſelfe shal abſolue him.</hi>
+            </p>
+            <p>You ſee, how ignorant you are in the Tenets of our Church, of which notwithſtanding, you ſpeake ſo magiſterially: you ſee that Doctrine forbidden under the greateſt penalty, the Church can inflict, which you aſſure <hi>is ſoe much endeared unto us.</hi> Owne, that we cannot lawfully practice, what we can not ſpeak of, under ſoe ſeuere a ſentence, unleſſe it be to impugne, to condem<g ref="char:EOLhyphen"/>ne, to deteſt it. And ſeing your whole Pamphlet is built on our holding <hi>Equiuocation</hi> lawfull, &amp; practicing it, (for which reaſon you repeate it, ſo often) your whole diſcourſe falls to the ground.</p>
+            <p>To confirme this opinion of our abhorrency for <hi>Equiuocations,</hi> j appeale to the conſtant practice of the rigideſt <hi>Papiſts,</hi> particularly <hi>Jeſuits,</hi> who, as you ſay, <hi>are particularly addicted to theſe Equiuoca<g ref="char:EOLhyphen"/>tions.</hi> Haue they not all unanimouſly, &amp; conſtantly refuſed ſome Oathes, for containing ſome things, which they thought untru, which by this their darling <hi>Equiuocation,</hi> myght eaſely be uerifyed had they thought it Lawfull? Haue not many loſt their <hi>Liberty,</hi> by <hi>Impriſonment,</hi> and ſome their <hi>Liues</hi> uppon the <hi>Gallows,</hi> rather then take ſome <hi>Oathes,</hi> which you think we can ſoe caſily make innocent? What more foolish, then to hazard the loſſe of life, or Limbe, Liberty or Goods, for <hi>indifferent things?</hi> Reproach, as
+<pb n="13" facs="tcp:151868:7"/>long as you pleas, to <hi>Jcſuits</hi> and <hi>Papiſts,</hi> the Doctrine, and Pra<g ref="char:EOLhyphen"/>ctice of <hi>Equiuocotion:</hi> that calumny cannot be fixt on them, where they are knowne; their whole conduct, the whole tenor of their liues is a ſufficient confutation of it, and a conuiction of its un<g ref="char:EOLhyphen"/>truth. We ſay with an ancient Father: <hi>Apologias non ſcribimus; ſed vivimus.</hi> Our actions are our Apology.</p>
+            <p>But you diſcouer a greater defect, then want of <hi>underſtanding</hi> in this Reproach, viz: want of <hi>Diſcretion,</hi> in taxing us with this cri<g ref="char:EOLhyphen"/>me, of which you are as guilty, as we innocent. With reſpect to your preſent dignity be it ſpoken: Did not you M.<hi rend="sub">r</hi> 
+               <hi>Barlo</hi> D.D. and now Bishop of Lincoln, moue with the ſeditious Torrent (which bore downe all Authority Eccleſiaſticall and Ciuil) all the time of the Troubles? Did not you howle with thoſe wolues? Speake the language of <hi>Canaan?</hi> Take all Oathes tendred by thoſe in (uſurped) Authority, how <hi>deſtructiue</hi> ſoeuer they were to <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> and <hi>Epiſcopacy,</hi> and <hi>contradictory to one an other?</hi> Jf you chan<g ref="char:EOLhyphen"/>ged your mind ſoe frequently, and beleiued ſincerely, what you ſwore, what a <hi>Weather-Cocke</hi> are you? Jf you altred not your ſen<g ref="char:EOLhyphen"/>timents, you muſt ether haue beene often forſworne, or haue re<g ref="char:EOLhyphen"/>courſe to <hi>Equiuocation.</hi> Deny not the fact, which publicke Fame confirmes: and the <hi>Terrae-Filius</hi> of your univerſity reproched you with it uery handſomely, ſaying <hi>all things would downe with you, be<g ref="char:EOLhyphen"/>ſides a Blacke-Pudding. Omnia deuorat praeter nigrum fartum:</hi> your con<g ref="char:EOLhyphen"/>ſcience ſcruples at nothing but that. You would oblidge a conſi<g ref="char:EOLhyphen"/>derable part of the world, who wonder at your conduct, in let<g ref="char:EOLhyphen"/>ting it know whither this ſcruple ariſes from the prohibition of eating Bloud contained in the new, or in the old Law.</p>
+            <p>
+               <hi>Fimhria</hi> p. 2. <hi>Garnet</hi> and <hi>Tresham</hi> uſed <hi>equiuocation,</hi> in their anſwers, when they were examined: and you cite <hi>Caſaubon</hi> for it.</p>
+            <p>
+               <hi>Anſwer.</hi> 1. <hi>Caſaubon's</hi> credit in matter of Humanity is greate, in Divinity little, but nothing at all, in things of Fact, concerning the actions of Papiſts, whoſe profeſt Ennemy he was.</p>
+            <p>
+               <hi>Anſwer.</hi> 2. Nether <hi>Garnet</hi> nor <hi>Tresham</hi> are the rules of my Faith, or Opinion, or Practice. Jf you could proue, as certainly j be<g ref="char:EOLhyphen"/>leiue you cannot, that they equiuocated, or Lyed, or were
+<pb n="14" facs="tcp:151868:8"/>forſworne that would not juſtify me, should j practice ether, nor proue, that j imitate them in it, or that j think, that others may with a ſafe conſcience, follow that example.</p>
+            <p>
+               <hi>Fimbria</hi> p. 3. <hi>Perſons, Nauarre,</hi> and <hi>Sanchez</hi> approue of Equiuo<g ref="char:EOLhyphen"/>cation.</p>
+            <p>
+               <hi>Anſwer.</hi> 1. A hundred ſuch Authors doe not equall the Autho<g ref="char:EOLhyphen"/>tity of the Pope, as uniuerfal, and ſupreame Paſtor, teaching the Church, and prohibiting ſome points of Doctrine under paine of excommunication. To theſe definitions we ſubmit our underſtan<g ref="char:EOLhyphen"/>ding.</p>
+            <p>
+               <hi>Anſwer.</hi> 2. How little we Inglish Catholicks euer regarded the ſentiments of thoſe, or any other Authours, of what quality ſoe<g ref="char:EOLhyphen"/>uer, in this matter of <hi>Eqniuocation,</hi> or <hi>Oathes,</hi> doth ſufficiently appeare by our perpetuall refuſing ſuch Oathes, as without ha<g ref="char:EOLhyphen"/>uing recourſe to thoſe petty euaſions, could not be verifyed.</p>
+            <p>
+               <hi>Fimbria</hi> p. 4. <q>Let the world judge, what regard is due to the words of ſuch dying men, whoſe Doctrine excuſes from ſin, and Lying, all untruths.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> You nether haue proued, nor shal euer be able to pro<g ref="char:EOLhyphen"/>ue, that theſe men, or any Papiſt aliue holds that Doctrine: we condemne it, we deteſt it from our harts, and to conuince you, and the whole world, that we doe this ſincerely, we appeale to our conſtant unalterable practice, as is aboue ſayd. But you, who haue without ſcruple ſwallowed ſoe many <hi>Oathes,</hi> whereof ſome muſt be falſe, (unleſſe you can make contradictions true) you, j ſay, may be ſuſpected, without rashneſſe, of <hi>Equiuocation,</hi> in what you ſpeake, or write, or ſweare.</p>
+            <p>
+               <hi>Fimbria</hi> p. 4. <q>J cannot imagin, how what Gauan ſays can be true, that the <hi>Jeſuits</hi> allow not the Doctrine of king-killing; but deteſt, and abhor it: or that none of them hold it lawfull to kill a king, but only <hi>Mariana.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> This Aſſertion containes two parts:
+<list>
+                  <item>1. That the <hi>Jeſuits</hi> deteſt and abhorre the Doctrine of king-killing.</item>
+                  <item>2. That none of them but <hi>Mariana</hi> taught it.</item>
+               </list>
+            </p>
+            <pb n="15" facs="tcp:151868:8"/>
+            <p>Now the firſt is ſoe tru, that j defye you, or any of your Breth<g ref="char:EOLhyphen"/>ren, to name any <hi>Jeſuit</hi> aliue, who doth not deteſt it. J haue knowne ſeuerall, and conuerſt with ſome of the cheife of them both, for Learning, and Authority, very familiarly, yet neuer beard them, or any one of them by the leaſt word approue of it, or ſpeake of it without horrour. This teſtimony j owe to Truth, and juſtice. And if the <hi>Proteſtants</hi> pleaſe for their owne further ſa<g ref="char:EOLhyphen"/>tisfaction, to conſult any of the Inglish <hi>Jeſuits</hi> now in Priſon, or any others ether in <hi>France,</hi> or <hi>Flandres,</hi> (where ſome <hi>Jeſuits</hi> are <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ill to be found, althô in your animaduerſions on the ſpeaches, you ſay they are banisht out of both thoſe places) if you find any <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e approue of that Doctrine, ſtone him.</p>
+            <p>J acknowledge, that at <hi>Louain</hi> lately ſome <hi>Theſes</hi> were printed, which contained that exploded Doctrine. But that hinders not the Truth of what j haue deliuered here, concerning the <hi>Jeſuits.</hi> 1. Be<g ref="char:EOLhyphen"/>cauſe they were not <hi>Jeſuits,</hi> who printed thoſe <hi>Theſes.</hi> 2. Becauſe, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> j heare thoſe <hi>Theſes</hi> neuer were defended. 3. Becauſe the Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, who had deliuered that Doctrine, and compoſed the <hi>Theſes,</hi> was depoſed from teaching, and caſt out of that uniuerſity, and all the <hi>Netherlands,</hi> for that fault, by his Eccleſiaſticall Supe<g ref="char:EOLhyphen"/>riour. By which you may ſee, how unjuſtly that Doctrine is char<g ref="char:EOLhyphen"/>ged uppon any <hi>Catholicks,</hi> at all, which was ſoe ſeuerely punisht.</p>
+            <p>As to the ſecond: Gauan doth not ſay, none but <hi>Mariana</hi> held <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; but that <hi>he knew none but Mariana, who taught it. There is not one, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the beſt of my knowledge, that allows of king-killing Doctrine, — <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mariana,</hi> are his owne words. Now althô there should haue beene 1000. others, of the ſame fentiments, yet what <hi>Gauan</hi> ſayd may be tru, if he knew nothing of the reſt. Soe j may ſay truly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſincerly: <hi>J know none, but the B. of L. who will take all Oathes wit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſcruple:</hi> althô probably there may be others of <hi>the ſame Princi<g ref="char:EOLhyphen"/>ple of conſcience, and Faith,</hi> unknowne to me.</p>
+            <p>Nether is it to be wondred at, that <hi>Gauan</hi> should know of none <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mariana,</hi> who taught that deteſtable Doctrine: ſeing under <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeuereſt penaltyes poſſible all mention of it is prohibited to the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſuits</hi> by their Generalls. And he might haue beene ignorant of
+<pb n="16" facs="tcp:151868:9"/>
+               <hi>Mariana's Paradox</hi> too, and the memory of it had beene utterly blotted out of all men's minds, had not ſome hyſtorians of that time, (which lye out of the common roade of ſchooles) and cheifely ſome ſcriblers of Libells againſt Catholickes, from time, to time renewed it. J could neuer find that booke of <hi>Mariana</hi> in any Library of the <hi>Jeſuits,</hi> althô j haue had the curioſity to en<g ref="char:EOLhyphen"/>quire after it. Which is an euident proofe of their unjuerſall diſli<g ref="char:EOLhyphen"/>ke of ſuch Doctrines. And if any Authors are extant in them, who curſorily treate of ſuch things, and incline to the like ſenti<g ref="char:EOLhyphen"/>ments, they are left there, for ſome other uſefull Treatiſes, which they contain, and not for that Doctrine: as for alike reaſon the workes of ſome Fathers are expoſed, which containe ſome errours, or hereſyes. Yet the diſlike of that part, which you ſoe odiouſly charge uppon us, appeares by the perpetuall ſilence of all <hi>Jeſuits,</hi> in that matter. Not one, theſe thirty, nay forty yeares, euer owned it, euen by priuate <hi>Writings, Theſes,</hi> or <hi>Dictates,</hi> or in <hi>pri<g ref="char:EOLhyphen"/>uate diſcourſe.</hi> Probably not one now aliue euer ſtudyed the que<g ref="char:EOLhyphen"/>ſtion.</p>
+            <p>But ſay you, Mariana was printed at <hi>Toledo</hi> and reprinted at Ments. <hi>Anſwer.</hi> What then? Cannot a booke be printed in a Towne, but each part of it muſt be owned by thoſe of that place? Are not <hi>Tertullian, S. Irineus, S. Cyprian,</hi> and <hi>Caſſianus,</hi> printed in ſeuerall places, where no body approues <hi>Montaniſme, Chilianiſme,</hi> Rebapti<g ref="char:EOLhyphen"/>zation, or ſemi-Pelagianiſme?</p>
+            <p>Were j diſpoſed to rake in this kennel, and retaliat, what a Catalogue could j giue you of thoſe of your Reformed Prote<g ref="char:EOLhyphen"/>ſtant Church, who both taught, and practiſed as ſeditious Do<g ref="char:EOLhyphen"/>ctrine, as any in <hi>Mariana,</hi> for ought j know, who neuer reade or ſaw him: who hauing under pretence of <hi>Euangelicall liberty</hi> caſt off all obedience to their ſpirituall Superior, did improue that ſame pretence to looſen that due to the Ciuil Magiſtrate, like tru <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Belial</hi> without any yoake? The late times of troubles would afford matter ſufficient in the libells, they produced (where of ſome poſſibly may haue beene compoſed by your ſelfe) for a Large Volume. But j will not imitate your <hi>indiſcretion,</hi> or <hi>malice,</hi> in re<g ref="char:EOLhyphen"/>newing
+<pb n="17" facs="tcp:151868:9"/>the memory of <hi>ſeditious maximes,</hi> which all faithfull ſub<g ref="char:EOLhyphen"/>jects hartily wish, had neuer beene broached, or myght neuer be remembred: Becauſe whileſt the memory of them is preſerued, when Paſſion inclines, and occaſion inuites <hi>ſeditious practices</hi> will follow. J ingeniouſly profeſſe, that j cannot looke uppon theſe Reproaches to men, who diſowne the Doctrines ſoe reproached, but as an effect of malice againſt their Perſons, and a ſly way to continu, and communicate thoſe ſame Principles: and j feare, that ſad experience will conuince the world, at leaſt our nation, (where ſome of the People are imbued with ſo many <hi>Anti-Monar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>all Principles,</hi>) that that way, which the <hi>Superiors of the Society of Jeſus</hi> haue taken, and enjoyned their ſubiects to follow, is the moſt effectuall, to ſettle People's minds, in due ſubiection to Law<g ref="char:EOLhyphen"/>full Magiſtrates, and to preuent all pernicious conſequences, of thoſe pernicious Doctrines.</p>
+            <p>
+               <hi>Fimbria</hi> p. 6. <q>
+                  <hi>Bonacina</hi> (ſoe it should be) <hi>Valeneia, Suarez, Leſ<g ref="char:EOLhyphen"/>ſius, Molina,</hi> and <hi>Filiucius,</hi> concurre with <hi>Mariana,</hi> that it is Law<g ref="char:EOLhyphen"/>full for a priuate man to kill ſuch a Tyrant, as hath no Title.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> J know no king, who would be offended that a Re<g ref="char:EOLhyphen"/>bel should be killed, who plots his death, and deſignes to beco<g ref="char:EOLhyphen"/>me king in his place. J know of no Laws diuine or humane, Ec<g ref="char:EOLhyphen"/>cleſiaſticall or Ciuil, which forbid it. <hi>In causâ Majeſtatis omnis homo miles eſt,</hi> ſays <hi>Tertullian.</hi> When the ſacred Perſon of a king is in eminent danger all ſubiects are authorized by the Law of nature, and of all nations, to defend him, euen by killing the <hi>Traitour.</hi> The <hi>sword</hi> in the <hi>Armes</hi> of the Royall citty, <hi>London,</hi> is a conuin<g ref="char:EOLhyphen"/>cing teſtimony, that kings are not diſpleaſed with ſuch attempts, which they haue rewarded with ſuch a laſting badge of honour.</p>
+            <p>
+               <hi>Fimbria</hi> p. 9. <q>Kings depoſed by the Pope, or by Hereſy are no more kings..... As all the kings of <hi>England, Sweden, Den<g ref="char:EOLhyphen"/>marke,</hi> &amp;c. are by the <hi>Jeſuits</hi> Doctrine.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Name the <hi>Jeſuit</hi> aliue who euer writ, or ſayd, that our dread — Souueraigne is not lawfull king of all his Dominions, and let him ſuffer as a false <hi>Traitour:</hi> all <hi>Jeſuits</hi> will ſigne his con<g ref="char:EOLhyphen"/>demnation. Jf you can name none, as j am certaine you cannot,
+<pb n="18" facs="tcp:151868:10"/>owne that you are a malicious, unworthy calumniatour. The meane while, the dying ſpeeches of their murthred Brethren con<g ref="char:EOLhyphen"/>fute ſufficiently this falſe lye.</p>
+            <p>You had had ſome colour for this calumny, had any <hi>Jeſuit</hi> re<g ref="char:EOLhyphen"/>uiued that <hi>wicleffian Doctrine,</hi> which your pretended Aſſertor of <hi>Monarky</hi> M.<hi rend="sub">r</hi> 
+               <hi>Oates,</hi> publisht in his <hi>Dedicatory Epiſtle to his Majeſty:</hi> where hauing ſayd, <hi>that the cheife end, and work of all ſupreame Po<g ref="char:EOLhyphen"/>wers, is to ſuppreſſe vice and encourage vertu. — By Banishing all vicious Liuers from their Preſence, and conuerſe, and aduancing the virtuous in their ſteade.</hi> He addes: <hi>By the neglect of which Principall part of their Royal Truſt, and office, Princes depoſe themſelues, as VSELESSE be<g ref="char:EOLhyphen"/>fore God, and their owne conſciences, what euer may be their ſtate, or Glo<g ref="char:EOLhyphen"/>ry in fact, and by human Laws, and Power before men.</hi> Thus he. What king can be ſecure of his ſubjects Allegiance, if they be poſſeſt with that opinion? Which will be eaſily applyed to any Prince how virtuous, and juſt ſoeuer, by a minor: and then who ſees not the conſequence? Could you haue found ſo ſeditious a Principle in any Papiſt, how Tragically would you haue deſcan<g ref="char:EOLhyphen"/>ted uppon it?</p>
+            <p>Compariſons are allways odious, and cheifly in odious matters: wherefore j will not compare the Principles of Catholick Reli<g ref="char:EOLhyphen"/>gion, with thoſe of your Reformation, to shew, that ours are more conformable to Monarky. This j will ſay, that Monarky flourisht more yeares in the Perſons of Catholick Princes, then months in thoſe of Proteſtants: that it was neuer shaken till your pretended Euangelicall Liberty, (the ground worke of your Re<g ref="char:EOLhyphen"/>formation) had Looſened the reynes of Gouernment, and wea<g ref="char:EOLhyphen"/>kened the hands of the Gouernours: That before one age had paſt, you turned it out of the Throne, and ſince its happy reſtaura<g ref="char:EOLhyphen"/>tion, you put it to greater Plunges, then in all the time, whileſt Catholick Religion preuailed, it endured. Inſomuch as j heare ſome of your owne are of opinion that <hi>Monarky in England cannot emerge, or long ſubſiſt, without Popery, or Popish Principles.</hi>
+            </p>
+            <p>You ſee, ſir Libeller, that the whole firſt part of your Pam<g ref="char:EOLhyphen"/>phlet, is downe ryght falſe. For.</p>
+            <p n="1">
+               <pb n="19" facs="tcp:151868:10"/>1. We doe not hold it Lawfull, in uertue of any <hi>Equiuocation,</hi> to tell any untruth, or Lye: much leſſe to confirme it by <hi>Oath.</hi>
+            </p>
+            <p n="2">2. We doe not hold it lawfull to murther any one, much leſſe, our dreade Soueraigne. Of which more hereafter.</p>
+            <p n="3">3. By your owne practice; and Principles, it is euident, you both ſpeake, and ſweare downeryght Lyes, unleſſe you excuſe them, by recurring to <hi>Equiuocation.</hi>
+            </p>
+            <p>And 4. that your obedience to your Prince hangs but on a uery weake thred: ſeing your darling and Champion makes it de<g ref="char:EOLhyphen"/>pend 1. On the king's keeping the Law of God. 2. On his banis<g ref="char:EOLhyphen"/>hing all thoſe, who doe not keepe it.</p>
+            <p>
+               <hi>Fimbria</hi> p. 7. <q>J doe not well underſtand their Prayers for the king. They would haue it thought, they had no deſigne to kill the king, who can pray for his proſperous reigne. But doe they think that his Majeſty can truly proſper, till he turne Roman Catholick? This they hartily wish, no doubt: whither they can pray, or no, j know not.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> You are more moderate here in your cenſure, then you were in your <hi>Reflections on the ſpeeches,</hi> where you boldly affirme, <hi>they were not prayers of Charity;</hi> but curſes of their malice. In which words you deliuer the diſpoſition of your hart; not theirs, who neuer gaue you any ground for it. Now hauing better conſide<g ref="char:EOLhyphen"/>red them, you ſay, <hi>You doe not well underſtand them:</hi> Whence it euidently follows that your former judgment was <hi>rash</hi> and <hi>unchari<g ref="char:EOLhyphen"/>table.</hi> But how comes it, that your greatwit <hi>cannot wel underſtand them?</hi> Are not their words plaine Inglish? Is not the conſtru<g ref="char:EOLhyphen"/>ction eaſy? The ſenſe and meaning obuious? Wherein then lyes the difficulty, the obſcurity? At leaſt we expected ſoe much Cha<g ref="char:EOLhyphen"/>rity <hi>(which thinks no euill)</hi> from a Chriſtian, and a Bishop as to interpret in a good ſenſe what is dubious. But that is not what you ſeeke, nor anſwers your deſires. Had they Blaſphemed God, curſed (which God forbid any should doe) the king, reuiled their Judges, Jury, and Witneſſes, called fire from heauen to deſtroy the Citty, and Kingdome, dyed like <hi>deſperados,</hi> and damned their ſouls for an eternity, you had had your harts wishes: their words
+<pb n="20" facs="tcp:151868:11"/>would haue beene underſtood: which becauſe they dyed like tru Diſciples of <hi>Chriſt Jeſus,</hi> like tru <hi>Jeſuits, you cannot wel underſtand,</hi> J hope no <hi>Jeſuit</hi> will euer purchace that aduantage at ſoe deare a rate. And as for theſe good mens, j am confident all good men, who haue not ſoe thicke a cloud of enuy, and malice in their minds, will eaſily underſtand their tru Chriſtian meaning, not with<g ref="char:EOLhyphen"/>ſtanding all the miſt you caſt before their eyes to preuent it.</p>
+            <p>
+               <hi>They would have it thought,</hi> ſay you, <hi>they deſigned not to kil the king, for whoſe proſperous reigne they prayd.</hi> But how doe you know that was <hi>their deſigne?</hi> Did they tell it to you? Had you it from God by Reuelation? J know no third way, to know what deſignes a man has in his hart. Jf you doe, bleſſe the world with commu<g ref="char:EOLhyphen"/>nicating it. But j weygh your words in the ſcales of Reaſon, whileſt you conſult not Reaſon; but only your Paſſion, in what you write. J think their deſigne cleare enough out of their words, to ſuch as ſeeke to find; and doe not ſtudy to miſſe it: viz. that hauing payd their duty to God, by profeſſing their Faith, and to juſtice, in aſſerting their Jnnocency, (to comply with the command of the Apoſtle 1. Timo. 2.2.) they proceeded to pray for the king, the kingdome, their freinds, &amp; themſelues.</p>
+            <p>You ask whither <hi>they thought, that his Majeſty could truly proſper, till he turne Roman Catholick?</hi> A wiſe queſtion for a Doctor of Di<g ref="char:EOLhyphen"/>uinity. J anſwer: no Catholick in his ſenſes euer thought <hi>tempo<g ref="char:EOLhyphen"/>rall proſperity</hi> depended on <hi>Faith.</hi> We all acknowledge with S. <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi> that the Roman Empire was for many ages proſperous: that the <hi>Ottoman</hi> doth ſtill proſper: that <hi>Auguſtus</hi> had a proſperous Reigne, as well as <hi>Conſtantin:</hi> and that <hi>Henry VI.</hi> though a Catho<g ref="char:EOLhyphen"/>lik, was unfortunate, as well as <hi>Darius</hi> a Pagan: Jt is tru, that when we compare the Bleſſings of this life, with thoſe of the next, all temporall proſperity is not conſiderable: and we may with reaſon fay, that the <hi>rich Glutton</hi> was miſerable, and poore <hi>La<g ref="char:EOLhyphen"/>zarus</hi> fortunate. And the Pſalmiſt, Pſal. 143.15. denyes thoſe to be happy; who enjoy Temporall Proſperity, and aſſures none ought to be eſteemed ſuch, but thoſe who adore the tru God. <hi>Beatum dixerunt popolum cui haec ſunt: Beatus populus cujus Dominus Deus
+<pb n="21" facs="tcp:151868:11"/>ejus.</hi> And j grant what you ſay, that <hi>they hartily wisht for this,</hi> v<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that his Majeſty were in the tru, and only way to eternall Bleſſe. And you cannot blame them for that wish, without condemning S. <hi>Paul,</hi> who offred a like Prayer for <hi>Agrippa,</hi> and his whole Au<g ref="char:EOLhyphen"/>ditory. Act. 26.29. But when you adde: <hi>Whither they can pray; or no, j know not:</hi> you bring to my mind the words of Feſtus to that Glorious Apoſtle: <hi>You are mad: ſtudyes haue beſotted you.</hi> And j leaue to the Readers conſideration, whither they may be applyed to you, who hauing owned that they prayd: and laboured in vaine to peruert the ſenſe of their prayers, doubt whither they could pray, or no. As if when you haue heard me ſpeake, and diſcanted uppon my words, you should after queſtion, whither j could ſpeake, or no. Sir, the ſcripture mentions a Drunken<g ref="char:EOLhyphen"/>neſſe, which proceedes not from wine: becauſe ſome Paſſions haue the ſame effect, as to the hindring the uſe of reaſon. Con<g ref="char:EOLhyphen"/>ſider whither or no, that is befallen to you.</p>
+            <p>Then you tell us, that Garnet prayed for the ſucceſſe of the Gun powder-treaſon. And <hi>Charles V.</hi> for the Popes deliuery, who<g ref="char:EOLhyphen"/>me he kept priſonner. J adde: and ſoe did the <hi>Parliament</hi> and <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> and probably you your ſelfe with them, for the deliuery of the King, and Peace of the Kingdome, than which nothing was Leſſe intended by them. But what is this, though tru, to the fiue <hi>Jeſuits,</hi> or me?</p>
+            <p>Then you fall againe uppon <hi>Equiuocation,</hi> and from pag. 7. to pag. 12. You perſue it. To all which j anſwer 1. we condemne <hi>Equiuocation</hi> as well, and more ſeuerely, then you. 2. By our con<g ref="char:EOLhyphen"/>ſtant practice, it appeares, we neuer owned it: as is aboue ſayd. Soe j paſſe to the 12. pag. where j find ſome thing new.</p>
+            <p>
+               <hi>Fimbria</hi> p. 12. <q>My Authour ſays, it is Lawfull <hi>in defence of ones reputation to kill another.....</hi> He that reades this, will not wonder, if they did not ſcruple to murther Sir E. <hi>Godfrey,</hi> or that ſome Preiſts were ſo forward to be his executioners.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> The Authour you mention, <hi>Amicus,</hi> being after the firſt impreſſion in <hi>Germany,</hi> reprinted at <hi>Doway,</hi> An. 1642. that whole propoſition was blotted out. By which the <hi>Jeſuits,</hi> who ouerſaw
+<pb n="22" facs="tcp:151868:12"/>the Print, ſufficiently declared their diſlike of it. And 23. yeares after this ſecond Edition, viz: 24. Sept. 1665. <hi>Alexander VII.</hi> con<g ref="char:EOLhyphen"/>demned 28. propoſitions: of which the 17. is that you charge on us in this place. According to this decree we frame our conſcien<g ref="char:EOLhyphen"/>ces, and direct our actions; and not by the priuate ſentiment of any particular Anthout.</p>
+            <p>As for the death of Sir <hi>E. Godefrey.</hi> j pray God from the bottom of my hart, to grant tru Repentance to the Authours of that horrid, and crying ſin. Some haue already ſuffred on that ſcore, who were in the judgment of wiſe men jnnocent of the fact. So<g ref="char:EOLhyphen"/>me diſcoueryes haue beene made of the tru Authour and thoſe ſoe conuincing, that all art, and craft of ſuch ſcriblers, as you are, will not confute them. But j deſigne not to accuſe any body, and notwithſtanding all that j, and others haue ſuffred, on that ſcore, j deſire the murtherers, no other harme, then what through ſenſe of their deteſtable crime, they shal inflict uppon themſel<g ref="char:EOLhyphen"/>ues, to appeaſe the wrath of Gôd, and preuent the heauy ſtroke of Diuine Juſtice.</p>
+            <p>
+               <hi>Fimbria</hi> p. 14.15. and 16. You ſtart againe Equiuocations and follow the game hotly: and ſoe you may for me, who know no Papiſt a liue, that will defend or practice them, ſince they are condemned by the ſea Apoſtolick.</p>
+            <p>
+               <hi>Fimbria</hi> p. 16. and 17. <q>The <hi>Jeſuits</hi> had great motiues to uſe <hi>Equiuocations,</hi> the Plot could not be more effectually promoted. It makes Proteſtants ſtagger in the beleife of it: it Weakns the credit of the Witneſſes: it allays the ſpirit of the Nation: it in<g ref="char:EOLhyphen"/>cenſes foraigne Princes againſt Proteſtants: and in fine it enti<g ref="char:EOLhyphen"/>tles the ſufferers to Martyrdome. When on the contrary, by acknowledging their conſpiracy, they had broken the necke of the Plot, endangered the Lords in the Towre, ſilenced thoſe, who queſtion the King's euidence, made Popery odious, and ſpoyled their expectation of Martyrdome.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> In all this diſcourse you diſcouer a mind filled with thoughts more becoming a <hi>Pagan,</hi> or <hi>Atheiſt,</hi> then a <hi>Christian.</hi> A <hi>Pagan</hi> or <hi>Atheiſt,</hi> beleiuing nothing of the life eternall to come,
+<pb n="23" facs="tcp:151868:12" rendition="simple:additions"/>ſettles all his hopes, all his feares, all his thoughts, and all his affections, on things of this life: and is ambitious, euen at his laſt breath, of the <hi>Plaudite</hi> which attends the <hi>exit</hi> of a good <hi>Actor</hi> on the ſtage of this world. A <hi>Chriſtian</hi> on the contrary knows this life to be but a moment, if compared with that to come: that all earthly glory is vanity, pleaſures deceitfull, health unconſtant, and life it ſelfe uncertaine, ſo embracing the aduice of our Bleſſed Redeemer. Mat. 6.19.20. Regards not any treaſure on earth, where it is ſubject to ſoe many caſualtyes; but prepares one in Heauen, where he is certaine he shal neuer be defrauded of it. He is certaine, it will auayle him nothing to gaine all the world with the loſſe of his ſoul. Mat. 16.26. And if any be ſoe unfor<g ref="char:EOLhyphen"/>tunate, as to be engaged during his life, in ſome deſignes worldly and Politick, contrary to the Law of God, yet theſe vanish at the gaſtly ſight of approaching Death. All hopes and feares of this life then vanishing, and thoſe of the life to come taking en<g ref="char:EOLhyphen"/>tire poſſeſſion of the ſoul.</p>
+            <p>Now conſider what thoughts you fancy in theſe executed Jn<g ref="char:EOLhyphen"/>nocents: of <hi>malice</hi> in Promoting the Plot: <hi>ſpite</hi> againſt the Wit<g ref="char:EOLhyphen"/>neſſes: <hi>reuenge</hi> againſt Proteſtants in all countryes: <hi>vanity,</hi> and <hi>folly</hi> in purchacing the name of Martyrs in this world, with the loſſe of their ſouls in the other, as if they would fry in Hell fire really for an eternity, prouided men uppon earth for a time, myght ſay they were <hi>braue boys.</hi> What ground haue you to ſurmiſe ſuch An<g ref="char:EOLhyphen"/>tichriſtian Diſpoſitions in their minds? At a much eaſier rate, and with leſſe ſin, or rather no ſin at all, as you ſay, they myght haue purchaced their Pardon, and liued contentedly in this world, and dyed happily for the next, by only owning the crime, of which they were really guilty. What reaſon haue they giuen you to judge them ſoe ſilly, or ſoe mad rather? Did they, whileſt at liberty, diſcouer any ſignes of that vanity? No. Did they during the time of their impriſonment? No. Did any ſuch thing appeare at their Tryall, or execution? Nor then nether. All who con<g ref="char:EOLhyphen"/>uerſt with them when abroad, and when Priſoners, all the ſpe<g ref="char:EOLhyphen"/>ctators of the laſt period of their liues, agree in a far different
+<pb n="24" facs="tcp:151868:13"/>character of them, from what you ſoe confidently aſſert of their inclinations, althô poſſible you neuer ſaw their faces. What ground can you haue then, for this hard cenſure? Without your ſelfe nothing occurres: wherefore j am forced to ſurmiſe, that all the ground you haue is taken from your owne hart, which is taken up, and poſſeſſed with thoughts of this life, and worldly deſignes, and that you judged of others by your ſelfe.</p>
+            <p>
+               <hi>Fimbria</hi> p. 17. <q>Uppon far leſſe account <hi>Equiuocation</hi> in words, or Oathes is in the judgment of their beſt <hi>Caſuiſts</hi> lawfull at any time, the hour of Death not excepted.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> 1. J challenge you to shew one <hi>Caſuiſt,</hi> who ſince that Decree of <hi>Jnnocent XI</hi> condemning <hi>Equiuocation,</hi> euer taught it Law<g ref="char:EOLhyphen"/>full at any time.</p>
+            <p>
+               <hi>Anſwer.</hi> 2. Theſe fiue <hi>Jeſuits</hi> declare they uſe no <hi>Equiuocation,</hi> but take their words in their naturall and obuious ſenſe, which muſt be a Lye and conſequently no jnnocent action, in the opinion of all <hi>Jeſuits,</hi> if their words were not true, in their proper ſignification.</p>
+            <p>
+               <hi>Fimbria</hi> p. 18. <q>The greateſt Lye and falſeſt Oath that euer was heard in the mouth of a <hi>Jeſuit,</hi> would become as tru, as the Ghoſpel, by a ſecret caſt of his mind.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> What opinion you haue <hi>of the truth of the Ghoſpel,</hi> j can not tell: but this compariſon giues ground to ſuſpect more then j will ſay. At leaſt that transforming quality of the <hi>Jeſuit</hi> turning falshood in to Truth, is much better, then your turning good things into bad, and Truth into Falshood: <hi>changing</hi> (as the Pro<g ref="char:EOLhyphen"/>phet ſays) <hi>judgment into wormewood.</hi> Amos 5.7.</p>
+            <p>
+               <hi>Fimbria</hi> p. 18. <q>What the <hi>Jeſuits</hi> were charged with, may be reduced to three heades: <hi>a deſigne to introduce Popery: to maſſacre, or deſtroy the Proteſtants of theſe kingdomes: and to kill the King.</hi> Now in their judgment, if we can diſcerne it by their Doctrine, no one of theſe is a ſin. And can you wonder they dyed impeni<g ref="char:EOLhyphen"/>tent, when the ſaw nothing to be repented of?</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> You would be a formidable aduerſary, were your Proo<g ref="char:EOLhyphen"/>fes as ſtrong, as your Aſſertions are bold. But hitherto we haue found you promiſe much and performe nothing. Let us ſee whit<g ref="char:EOLhyphen"/>her your attempt be more ſucceſſefull here.</p>
+            <pb n="25" facs="tcp:151868:13"/>
+            <p>
+               <hi>Fimbria</hi> p. 18. <q>Could they count it a ſin, to reſtore the Po<g ref="char:EOLhyphen"/>pish Religion in three kingdomes, and eſtablish it, by aduan<g ref="char:EOLhyphen"/>cing a Prince, to the Throne who would count it his glory ut<g ref="char:EOLhyphen"/>terly to extinguish Hereſy?</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> There are none, but the factious Presbiterians, who dislike the uniting all the world into one exterior communion. All good Chriſtians, as well as <hi>Jeſuits</hi> wish it done, and profeſſe their ſincere endeauours to promote it, <hi>by all Lawfull meanes;</hi> not other wiſe: for as the Apoſtle ſayth: <hi>we are not to doe euill, that good may come of it.</hi> But you malitiouſly hint at ſomething, which you dare not ſpeake out: and j am <hi>Dauus;</hi> not <hi>Oedipus:</hi> ſoe cannot unriddle your miſterious meaning. Yet in expectation of your diſ<g ref="char:EOLhyphen"/>couery, j declare, that, j know no <hi>Papiſt,</hi> nor <hi>Jeſuit,</hi> aliue, <hi>who thinks it Lawfull to aduance any Prince to a Throne, which is not due to him: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that we doe not think it due to him, whileſt it is poſſeſt by another lawfully.</hi> When you shal further diſcouer your meaning, it shal <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd a fuller anſwer.</p>
+            <p>
+               <hi>Fimbria</hi> p. 18. <q>Doe they count it a ſin to deſtroy, or roote out, all whome they count Hereticks, as they count many hun<g ref="char:EOLhyphen"/>dred thouſands in theſe nations: and then you cite a decree of the Councel of <hi>Latran,</hi> ordering <hi>Princes,</hi> to roote out <hi>Hereticks.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> We all count it a ſin, to deſtroy, or roote out, any one man, Heretick, or other, by priuate Authority, or without due forme of juſtice: and a much greater ſin to deſtroy ſoe many. The Decree of the <hi>Lateran council</hi> is nothing to the purpoſe, it ſpeaking only of abſolute Princes, who haue receiued from God <hi>jus gladij,</hi> a right to kill: and they may as Lawfully deſtroy, according to the laws of their Dominions, a Heretick, as any other <hi>malefactour.</hi> And what is this to the fiue <hi>Jeſuits,</hi> who neuer pretended any ſuch power ouer Liues?</p>
+            <p>
+               <hi>Fimbria</hi> p. 19. <q>Do they think it a ſin to kill the King? Their Doctors aſſure them, it is no ſin, to kill a Tyrant, and they will haue our King ſoe, one way, or other.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> This malicious Aſſertion without any proofe is an eui<g ref="char:EOLhyphen"/>dent proof of the ill will of your hart; but not of any defect of due Allegiance in the <hi>Jeſuits.</hi> I challenge you to proue, that any <hi>Jeſuit</hi>
+               <pb n="26" facs="tcp:151868:14"/>ether by word, or writing, diſowned his <hi>Majeſtye's</hi> iuſt title to his <hi>Imperiall Crowne.</hi> We haue ſeene a shrewde hint in your great Fauo<g ref="char:EOLhyphen"/>rite <hi>Oates,</hi> who teaches that Princes are depoſed, when they ether doe not keepe God's Laws, or not punish all who breake them. Js not this that uery thing, which ſome ancient, and antiquated Diui<g ref="char:EOLhyphen"/>nes, call <hi>miſgouernment:</hi> againſt whoſe ſentiments you ſoe tragically de<g ref="char:EOLhyphen"/>clame? There is only this difference betwixt your <hi>party</hi> and the <hi>Catho<g ref="char:EOLhyphen"/>licks,</hi> that we haue <hi>Layd a ſide all thoſe ſentiments, for their manifeſt bad con<g ref="char:EOLhyphen"/>ſequences; and you retaine them ſtill.</hi>
+            </p>
+            <p>
+               <hi>Fimbria</hi> p. 19.20.21. &amp; 22. <hi>Boucher</hi> the <hi>Jeſuit</hi> (who neuer was one) <hi>Suarez, Roſaeus, Sà, Bannez, Panormitan,</hi> and other hard names, teach ſtrange Doctrine concerning Kings.</p>
+            <p>
+               <hi>Anſwer.</hi> We are not anſwerable for their ſentiments, unleſſe we ma<g ref="char:EOLhyphen"/>ke them our owne, by approuing, or practicing them: their Doctri<g ref="char:EOLhyphen"/>nall faults being no leſſe Perſonall, then theire other ſins. For rea<g ref="char:EOLhyphen"/>ſons aboue giuen j will not recriminate. Nothing in all thoſe men's works of more dangerous conſequence, then what <hi>Oates</hi> lately had the impudence to print. Jt were more diſcreete, as well as more charitable, to bury in perpetuall obliuion all thoſe shamefull, and ſeditious <hi>Principles:</hi> in which the reformed church hath ſurpaſt the <hi>Roman Catholicks,</hi> both in <hi>Teaching,</hi> and <hi>Acting.</hi>
+            </p>
+            <p>
+               <hi>Fimbria</hi> p. 23. <q>To conclude. J haue great reaſon to be confident, that theſe ſpeeches were contriued for the promoting of their Grand Plot, uppon which their harts were ſoe ſet, that the thoughts of Death could not diuert them.</q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> J haue great reaſon to ſay, you care not what you ſay, pro<g ref="char:EOLhyphen"/>uided it be againſt <hi>Papiſts.</hi> Proue firſt there was a <hi>Grand Plot,</hi> and that deſigned by theſe, or any other <hi>Jeſuits:</hi> which you will neuer doe, becauſe there neuer was any ſuch thing. You may remember, (it is not ſo long a goe) who they were, that under pretence of oppoſing pretended <hi>Popish Plots,</hi> carryed on a <hi>reall Plot,</hi> to the ruin of the <hi>King,</hi> and three <hi>Kingdomes.</hi> You were in being then, and for ought j know, according to your abilityes, acted then, as you doe now, to promote the opinion of a <hi>Popish Plot.</hi>
+            </p>
+            <p>
+               <hi>Fimbria</hi> p 23. <q>
+                  <p>J haue endeauoured to cleere two things.</p>
+                  <p n="1">1. That by their Doctrine, though they were as guilty, as any
+<pb n="27" facs="tcp:151868:14"/>malefactors, that euer ſuffred, yet they might aſſert their Jnnocen<g ref="char:EOLhyphen"/>cy, with all Oathes, and Aſſeuerations, and that lawfully by the uſe of a ſecret reſerue, or mentall Equiuocation. This is ſoe plain in their writings, that j neuer expect any Preiſt, or <hi>Jeſuit</hi> in En<g ref="char:EOLhyphen"/>gland will diſproue it.</p>
+                  <p n="2">2. That they were as much concerned to mantaine their preten<g ref="char:EOLhyphen"/>ded Jnnocency, how guilty ſoeuer they were indeede, as they we<g ref="char:EOLhyphen"/>re for promoting their preſent horrid Plot, or their Catholick in<g ref="char:EOLhyphen"/>tereſt depending on it.</p>
+               </q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Beyond your expectation you ſe your endeauours fruſtra<g ref="char:EOLhyphen"/>ted, and thoſe two points remaine as obſcure, as euer. The authori<g ref="char:EOLhyphen"/>ty of the ſea Apoſtolick is irrefragable to us <hi>Papiſts,</hi> in matters of <hi>Faith,</hi> and <hi>good manners:</hi> and that forbids under paine of <hi>Excommunication</hi> that <hi>Reſerue,</hi> to which you haue recours, <hi>Equiuocation.</hi> Now according to all Diuines that cenſure neuer falls, but on a mortall ſin. Soe we all beleiue, that to teach <hi>Equiuocation,</hi> is a <hi>mortall</hi> ſin. Yet you pretend, the <hi>Jeſuits</hi> thought they myght practice <hi>Equiuocation,</hi> euen with <hi>Perjury,</hi> that is, adde one mortall ſin to another, without any the leaſt ſin.</p>
+            <p>Your attempt, as to the ſecond, hath beene as unſucceſſefull: for that depen<g ref="char:EOLhyphen"/>ding on the reall ſubſiſtance of a <hi>Popish Plot,</hi> which now uery ſew, if any, beleiue, and j am certain neuer was in Being, but in <hi>Oates</hi> his light, and malitious head, that ſecond point muſt fall to the ground.</p>
+            <p>Againe. The thing contained in that ſecond point, is a matter of fact, not <hi>what myght be, but what was the meaning of thoſe words.</hi> And it is a <hi>ſecret of their harts:</hi> and <hi>who knows that, but the ſpirit of man which is in him?</hi> 1. Cor. 2.11. Now j deſire my Reader to conſider, not what reaſon is alleadged by this Libeller; but what can be produced in a thing of this nature, except it be from a Reuela<g ref="char:EOLhyphen"/>tion from the <hi>ſearcher of harts,</hi> God, or from the teſtimony of the Perſons ſpea<g ref="char:EOLhyphen"/>king? And to nether of theſe this Authour pretends. This alone shews, that all his reaſons in this caſe are inſignificant to a man of reaſon.</p>
+            <p>
+               <hi>Fimbria</hi> p. 24. <q>Let me only make this enquiry, and j haue done: whether any in Reaſon, Juſtice, or Charity, can againſt ſuch Euidence, as the Juſtice of the Nation counted cleare, pregnant, and conuincing, beleiue thoſe, <hi>who thought they myght uery lawfully deceiue us, when they were dying, and apprehen<g ref="char:EOLhyphen"/>ded themſelues moſt hyghly concerned to doe it.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> You ſtate the caſe uery wrong, that ſoe you myght ſteale away your Readers aſſent. The queſtion is not: <hi>whither we shall credit the juſtice of the na<g ref="char:EOLhyphen"/>tion, or fiue Perſons intereſſed to deceiue their Auditory?</hi> For <hi>the juſtice of the na<g ref="char:EOLhyphen"/>tion,</hi> as well as the People, relyed on the <hi>Depoſition of Oates,</hi> the ſole fountaine
+<pb n="28" facs="tcp:151868:15"/>of all theſe <hi>Lyes,</hi> and <hi>mischeifes.</hi> For as for <hi>Bedlows</hi> he was newly come out of a Goale, and his ſtaruing condition inuited him to ſecond <hi>Oates,</hi> for a liuelihood.</p>
+            <p>As for <hi>Oates</hi> he had beene a <hi>noted Lyer,</hi> and a <hi>Perjured fellow</hi> from his infancy. During his aboade at S.<hi rend="sup">t</hi> 
+               <hi>Omers,</hi> he was notorious and odious for it to all there, And j neuer heard but two tru ſayings of his. The one was, whileſt he hoped to be admitted into the <hi>Society,</hi> in confidence he ſayd to one: <hi>j shall ether be a Jeſuit</hi> or a <hi>Judas.</hi> The other was, when he had receiued a finall refuſall, (the Prouinciall thought him unfit to liue amongſt any honeſt men) he ſayd openly: <hi>j will be reuenged.</hi> Both theſe ſayings he hath made good. And all his Lyes againſt <hi>Jeſuits</hi> are to be aſcribed, ether to his <hi>indigent condition,</hi> or this deſire of <hi>Reue<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge</hi> for this imaginary wrong. Where <hi>en paſſant,</hi> j deſire the Reader to conſider, 1. what this man deſerues, who to ſatisfy his priuate malice hath diſturbed Church, and State, Court, and Country? 2. What honour it is to the Nation, that ſo greate a part of it should be employed, as inſtruments to <hi>Reuenge</hi> a <hi>wrong</hi> pretended to be done to that great man, <hi>TITUS OATES.</hi>
+            </p>
+            <p>On the other ſide are fiue Perſons, of an Jnnocent, irreprochable, virtuo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> life, as all will teſtify, who had the aduantage to conuerſe with them, during <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whole courſe of it.</p>
+            <p>Wherefore, this is the queſtion, rightly ſtated: whither the <hi>Juſtice of the No<g ref="char:EOLhyphen"/>tion,</hi> and all the reſt, are rather to beleiue
+<list>
+                  <item>1. <hi>Fiue men, who are neuer knowne to haue ſpoken a false word: or one man, who ſcarce, euer ſpoke a tru one.</hi>
+                  </item>
+                  <item>2. <hi>Fiue, who ſcarce euer ſwore; or one who hath beene often forſworne.</hi>
+                  </item>
+                  <item>3. <hi>Fiue dying men, who should be damned unauoydably, if they were forſworne; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> one, who would ſtarue, if he were not.</hi>
+                  </item>
+                  <item>4. <hi>Fiue, who would not ſpeak an untruth, to ſaue their Liues; or one, who gets his liuing by ſwearing untruths.</hi>
+                  </item>
+                  <item>5. <hi>Fiue, who allways ſayd the ſame things; or one who on all occaſions altred <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> tale, in ſome uery materiall point.</hi>
+                  </item>
+                  <item>6. In fine, <hi>fiue, who ſay nothing, but what is euidently probable, and credible; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> one, whoſe ſtory is euidently fabulous, and incredible, if not impoſſible.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>When this is conſidered, j doubt not, what verdict any judicious man <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> giue in this caſe.</p>
+            <p>Let this <hi>Libeller, in Authority,</hi> D. <hi>Tongue,</hi> and the whole <hi>ſeditious Presbiter<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rable,</hi> ſay what they can, to paliate <hi>Oates,</hi> his Lyes, and <hi>Perjurys,</hi> he will ſtill be a great reproch to our Nation: and the only effect of their Apologyes will be, to make the Authours of them partakers of his ſin, and sharers in his infamy. And as for the ſuffring <hi>Papiſts,</hi> as they are, j am confident, all jnnocent, ſoe that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nocency will dayly become more, and more conſpicuous, and all this preſent shame will hereafter redound to their greater Glory. Soe that they with joy, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay as <hi>Joſeph</hi> did Gen. 50.20. <hi>Vos cogitaſtis de me malu<g ref="char:cmbAbbrStroke">̄</g>, ſed Deus vertit illud in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
